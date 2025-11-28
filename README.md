@@ -32,10 +32,6 @@ As análises foram realizadas utilizando **Python**, em ambiente **Jupyter Noteb
 Disponível em:  
 https://www.kaggle.com/datasets/grandmaster07/youtube-posting-dataset/data
 
-Caso o dataset exceda o tamanho do GitHub, coloque-o em:  
-📎 *data/Dados.YT.csv*  
-ou forneça o link de download.
-
 ---
 
 ## Tecnologias Utilizadas
